@@ -1,10 +1,15 @@
 
-### Hello there, my name is Brena Freitas and I am a student of Software Engineering. Apart from my passion for technology, I also have a deep love for singing, music, yoga, and volleyball. <br/>
+### ✨ Hello there, my name is Brena Freitas and I am a student of Software Engineering. Apart from my passion for technology, I also have a deep love for singing, music, yoga, and volleyball.✨ <br/>
 ##
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brena-dos-santos-freitas-b9b7131b3/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://www.instagram.com/brena_freitass/)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
 <br/>
+
+<div>
+<a href="https://www.instagram.com/brena_freitass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/brena-dos-santos-freitas-b9b7131b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 <div>
 <a href="https://github.com/brenaSF">
