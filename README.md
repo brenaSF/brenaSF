@@ -1,5 +1,5 @@
 
-### ✨ Hello there, my name is Brena Freitas and I am a student of Software Engineering. Apart from my passion for technology, I also have a deep love for singing, music, yoga, and volleyball.✨ 
+### ✨ Hello ,I'm Brena Freitas and I am a student of Software Engineering. Apart from my passion for technology, I also have a deep love for singing, music, yoga, and volleyball.✨ 
 <br/>
 ##
 
